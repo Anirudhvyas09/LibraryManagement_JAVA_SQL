@@ -11,4 +11,11 @@ This Library System can be used in public libraries or institutions for better m
 * Statistics
 * Forgot Password
 * Help/About-Us
-    
+# Prerequisites
+* IDE
+* SQL Server
+* SQL Connector
+# Software Used
+* Intellij Idea 
+* My SQL WorkBench
+
